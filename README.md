@@ -4,6 +4,7 @@ Serial Connection CLI Command Jail Break Fuzzer.
 ## Features
 * Configurable Serial Communications
 * Auto-relogin detection
+* Sudo Password detection
 * Success-case detection
 * Exception-case detection
 * Easy to configure command payloads
