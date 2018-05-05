@@ -1,0 +1,215 @@
+============================ BEGIN TEST CASE: 12 - escape char HEX: 00 0B 
+
+============================ BEGIN TEST CASE: 13 - escape char HEX: 00 0B 
+
+============================ BEGIN TEST CASE: 14 - escape char HEX: 00 0B 
+
+============================ BEGIN TEST CASE: 15 - escape char HEX: 00 0B 
+
+============================ BEGIN TEST CASE: 16 - escape char HEX: 00 0C 
+
+============================ BEGIN TEST CASE: 17 - escape char HEX: 00 0C 
+
+============================ BEGIN TEST CASE: 18 - escape char HEX: 00 0C 
+
+============================ BEGIN TEST CASE: 19 - escape char HEX: 00 0C 
+
+============================ BEGIN TEST CASE: 20 - escape char HEX: 00 0D 
+
+============================ BEGIN TEST CASE: 21 - escape char HEX: 00 0D 
+
+============================ BEGIN TEST CASE: 22 - escape char HEX: 00 0D 
+
+============================ BEGIN TEST CASE: 23 - escape char HEX: 00 0D 
+
+============================ BEGIN TEST CASE: 24 - escape char HEX: 00 0E 
+
+============================ BEGIN TEST CASE: 25 - escape char HEX: 00 0E 
+
+============================ BEGIN TEST CASE: 26 - escape char HEX: 00 0E 
+
+============================ BEGIN TEST CASE: 27 - escape char HEX: 00 0E 
+
+============================ BEGIN TEST CASE: 28 - escape char HEX: 00 0F 
+
+============================ BEGIN TEST CASE: 29 - escape char HEX: 00 0F 
+
+============================ BEGIN TEST CASE: 30 - escape char HEX: 00 0F 
+
+============================ BEGIN TEST CASE: 31 - escape char HEX: 00 0F 
+
+============================ BEGIN TEST CASE: 32 - escape char HEX: 00 10 
+
+============================ BEGIN TEST CASE: 33 - escape char HEX: 00 10 
+
+============================ BEGIN TEST CASE: 34 - escape char HEX: 00 10 
+
+============================ BEGIN TEST CASE: 35 - escape char HEX: 00 10 
+
+============================ BEGIN TEST CASE: 36 - escape char HEX: 00 11 
+
+============================ BEGIN TEST CASE: 37 - escape char HEX: 00 11 
+
+============================ BEGIN TEST CASE: 38 - escape char HEX: 00 11 
+
+============================ BEGIN TEST CASE: 39 - escape char HEX: 00 11 
+
+============================ BEGIN TEST CASE: 40 - escape char HEX: 00 12 
+
+============================ BEGIN TEST CASE: 41 - escape char HEX: 00 12 
+
+============================ BEGIN TEST CASE: 42 - escape char HEX: 00 12 
+
+============================ BEGIN TEST CASE: 43 - escape char HEX: 00 12 
+
+============================ BEGIN TEST CASE: 44 - escape char HEX: 00 13 
+
+============================ BEGIN TEST CASE: 45 - escape char HEX: 00 13 
+
+============================ BEGIN TEST CASE: 46 - escape char HEX: 00 13 
+
+============================ BEGIN TEST CASE: 47 - escape char HEX: 00 13 
+
+============================ BEGIN TEST CASE: 48 - escape char HEX: 00 14 
+
+============================ BEGIN TEST CASE: 49 - escape char HEX: 00 14 
+
+============================ BEGIN TEST CASE: 50 - escape char HEX: 00 14 
+
+============================ BEGIN TEST CASE: 51 - escape char HEX: 00 14 
+
+============================ BEGIN TEST CASE: 52 - escape char HEX: 00 15 
+
+============================ BEGIN TEST CASE: 53 - escape char HEX: 00 15 
+
+============================ BEGIN TEST CASE: 54 - escape char HEX: 00 15 
+
+============================ BEGIN TEST CASE: 55 - escape char HEX: 00 15 
+
+============================ BEGIN TEST CASE: 56 - escape char HEX: 00 16 
+
+============================ BEGIN TEST CASE: 57 - escape char HEX: 00 16 
+
+============================ BEGIN TEST CASE: 58 - escape char HEX: 00 16 
+
+============================ BEGIN TEST CASE: 59 - escape char HEX: 00 16 
+
+============================ BEGIN TEST CASE: 60 - escape char HEX: 00 17 
+
+============================ BEGIN TEST CASE: 61 - escape char HEX: 00 17 
+
+============================ BEGIN TEST CASE: 62 - escape char HEX: 00 17 
+
+============================ BEGIN TEST CASE: 63 - escape char HEX: 00 17 
+
+============================ BEGIN TEST CASE: 64 - escape char HEX: 00 18 
+
+============================ BEGIN TEST CASE: 65 - escape char HEX: 00 18 
+
+============================ BEGIN TEST CASE: 66 - escape char HEX: 00 18 
+
+============================ BEGIN TEST CASE: 67 - escape char HEX: 00 18 
+
+============================ BEGIN TEST CASE: 68 - escape char HEX: 00 19 
+
+============================ BEGIN TEST CASE: 69 - escape char HEX: 00 19 
+
+============================ BEGIN TEST CASE: 70 - escape char HEX: 00 19 
+
+============================ BEGIN TEST CASE: 71 - escape char HEX: 00 19 
+
+============================ BEGIN TEST CASE: 72 - escape char HEX: 00 1A 
+
+============================ BEGIN TEST CASE: 73 - escape char HEX: 00 1A 
+
+============================ BEGIN TEST CASE: 74 - escape char HEX: 00 1A 
+
+============================ BEGIN TEST CASE: 75 - escape char HEX: 00 1A 
+
+============================ BEGIN TEST CASE: 76 - escape char HEX: 00 1B 
+
+============================ BEGIN TEST CASE: 77 - escape char HEX: 00 1B 
+
+============================ BEGIN TEST CASE: 78 - escape char HEX: 00 1B 
+
+============================ BEGIN TEST CASE: 79 - escape char HEX: 00 1B 
+
+============================ BEGIN TEST CASE: 80 - escape char HEX: 00 1C 
+
+============================ BEGIN TEST CASE: 81 - escape char HEX: 00 1C 
+
+============================ BEGIN TEST CASE: 82 - escape char HEX: 00 1C 
+
+============================ BEGIN TEST CASE: 83 - escape char HEX: 00 1C 
+
+============================ BEGIN TEST CASE: 84 - escape char HEX: 00 1D 
+
+============================ BEGIN TEST CASE: 85 - escape char HEX: 00 1D 
+
+============================ BEGIN TEST CASE: 86 - escape char HEX: 00 1D 
+
+============================ BEGIN TEST CASE: 87 - escape char HEX: 00 1D 
+
+============================ BEGIN TEST CASE: 88 - escape char HEX: 00 1E 
+
+============================ BEGIN TEST CASE: 89 - escape char HEX: 00 1E 
+
+============================ BEGIN TEST CASE: 90 - escape char HEX: 00 1E 
+
+============================ BEGIN TEST CASE: 91 - escape char HEX: 00 1E 
+
+============================ BEGIN TEST CASE: 92 - escape char HEX: 00 1F 
+
+============================ BEGIN TEST CASE: 93 - escape char HEX: 00 1F 
+
+============================ BEGIN TEST CASE: 94 - escape char HEX: 00 1F 
+
+============================ BEGIN TEST CASE: 95 - escape char HEX: 00 1F 
+
+============================ BEGIN TEST CASE: 96 - escape char HEX: 00 20 
+
+============================ BEGIN TEST CASE: 97 - escape char HEX: 00 20 
+
+============================ BEGIN TEST CASE: 98 - escape char HEX: 00 20 
+
+============================ BEGIN TEST CASE: 99 - escape char HEX: 00 20 
+
+============================ BEGIN TEST CASE: 100 - escape char HEX: 00 21 
+
+============================ BEGIN TEST CASE: 101 - escape char HEX: 00 21 
+
+============================ BEGIN TEST CASE: 102 - escape char HEX: 00 21 
+
+============================ BEGIN TEST CASE: 103 - escape char HEX: 00 21 
+
+============================ BEGIN TEST CASE: 104 - escape char HEX: 00 22 
+
+============================ BEGIN TEST CASE: 105 - escape char HEX: 00 22 
+
+============================ BEGIN TEST CASE: 106 - escape char HEX: 00 22 
+
+============================ BEGIN TEST CASE: 107 - escape char HEX: 00 22 
+
+============================ BEGIN TEST CASE: 108 - escape char HEX: 00 23 
+
+============================ BEGIN TEST CASE: 109 - escape char HEX: 00 23 
+
+============================ BEGIN TEST CASE: 110 - escape char HEX: 00 23 
+
+============================ BEGIN TEST CASE: 111 - escape char HEX: 00 23 
+
+============================ BEGIN TEST CASE: 112 - escape char HEX: 00 24 
+
+============================ BEGIN TEST CASE: 113 - escape char HEX: 00 24 
+
+============================ BEGIN TEST CASE: 114 - escape char HEX: 00 24 
+
+============================ BEGIN TEST CASE: 115 - escape char HEX: 00 24 
+
+============================ BEGIN TEST CASE: 116 - escape char HEX: 00 25 
+
+============================ BEGIN TEST CASE: 117 - escape char HEX: 00 25 
+
+============================ BEGIN TEST CASE: 118 - escape char HEX: 00 25 
+
+============================ BEGIN TEST C
